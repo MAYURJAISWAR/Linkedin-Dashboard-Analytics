@@ -1,4 +1,4 @@
-# Linkedin-Dashboard-Analytics
+# LINKEDIN PROFILE ANALYSIS
 
 I am proud to announce that I have created a comprehensive LinkedIn Dashboard Analytics to analyze my profile activity on the platform. This dashboard provides in-depth insights into various aspects of my LinkedIn presence, including the number of invitations sent and received, connections established, and messages exchanged.
 
